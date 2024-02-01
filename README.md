@@ -1,4 +1,3 @@
-/*************************************************************
 
 Name: Shaoan Wang
 
@@ -21,4 +20,3 @@ Adjustments & Optimizations:
     Implement mouse control for player movement and fire  
     Implement player to control the Rocket after it's fired 
 
-*************************************************************/
